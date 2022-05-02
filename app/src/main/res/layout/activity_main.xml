@@ -4,62 +4,92 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    >
+
 
     <ImageView
         android:id="@+id/siem_logo"
-        android:layout_marginTop="60dp"
         android:layout_width="200dp"
-        android:layout_height='200dp'
-        android:src="@drawable/siem_logo"
-        android:layout_centerHorizontal="true"/>
+        android:layout_height='150dp'
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp"
+        android:src="@drawable/siem_logo" />
 
     <TextView
 
-        android:id="@+id/number_tv"
+        android:id="@+id/roll_no_tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/siem_logo"
         android:layout_marginLeft="60dp"
         android:layout_marginTop="10dp"
-        android:text="Phone Number : "
+        android:text="Roll Number : "
         android:textSize="20dp"
         android:textStyle="bold"
         android:textColor="@color/black"/>
 
     <EditText
-        android:id="@+id/number_et"
+        android:id="@+id/roll_no_et"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/number_tv"
+        android:layout_below="@+id/roll_no_tv"
         android:layout_marginLeft="60dp"
         android:layout_marginRight="60dp"
-        android:drawableLeft="@drawable/phone"
-        android:inputType="number"
-        android:backgroundTint="@color/brown"/>
+        android:backgroundTint="@color/brown"
+        android:drawableLeft="@drawable/person_vector"
+        android:drawablePadding="10dp"
+        android:inputType="number" />
+
+    <TextView
+
+        android:id="@+id/password_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/roll_no_et"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="10dp"
+        android:text="Password : "
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/password_et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/password_tv"
+        android:layout_marginLeft="60dp"
+        android:layout_marginRight="60dp"
+        android:backgroundTint="@color/brown"
+        android:drawableLeft="@drawable/password_vector"
+        android:drawablePadding="10dp"
+        android:inputType="textPassword" />
 
 
     <Button
-        android:id="@+id/otp_btn"
+        android:id="@+id/login_btn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/number_et"
+        android:layout_below="@+id/password_et"
         android:layout_centerHorizontal="true"
         android:layout_marginStart="60dp"
         android:layout_marginLeft="60dp"
         android:layout_marginEnd="60dp"
         android:layout_marginRight="60dp"
         android:layout_marginBottom="60dp"
-        android:text="Send Otp"
-        />
+        android:background="@drawable/oval"
+        android:text="login"
+        android:textColor="@color/white"
+        android:textSize="20dp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/otp_btn"
+        android:layout_below="@+id/login_btn"
         android:layout_marginLeft="60dp"
-        android:layout_marginTop="5dp"
+        android:layout_marginTop="1dp"
         android:layout_marginRight="60dp"
-        android:textColor="@color/black"
-        android:text="Phone number is only for authecntication.Your feedback is completely anonymous." />
+        android:text="Roll number is only for authecntication.Your feedback is completely anonymous."
+        android:textColor="@color/black" />
 </RelativeLayout>

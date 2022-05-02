@@ -3,11 +3,43 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/drawable/custom_edittext.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/drawable/custom_input.xml" value="0.23333333333333334" />
         <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/drawable/ic_baseline_phone_android_24.xml" value="0.2375" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/drawable/ic_menu.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/drawable/ic_more.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/drawable/oval.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/drawable/password_vector.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/drawable/person_vector.xml" value="0.23333333333333334" />
         <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/drawable/phone.xml" value="0.2375" />
         <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/drawable/phone_vector.xml" value="0.2375" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/drawable/rounded_shape.xml" value="0.145" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/drawable/rowshape.xml" value="0.145" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/drawable/side_nav_bar.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/layout-v31/singlerowdesign.xml" value="0.2171875" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/layout/activity_anonymous_message.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/layout/activity_change_password.xml" value="0.203125" />
         <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/layout/activity_menu.xml" value="0.2171875" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/layout/app_bar_menu.xml" value="0.2171875" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/layout/content_menu.xml" value="0.2171875" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/layout/fragment_gallery.xml" value="0.2171875" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/layout/fragment_home.xml" value="0.2171875" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/layout/fragment_slideshow.xml" value="0.2171875" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/layout/logging_in.xml" value="0.2171875" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/layout/main_nav_drawer.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/layout/main_toolbar.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/layout/menu_activity.xml" value="0.2171875" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/layout/nav_header_menu.xml" value="0.2171875" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/layout/singlerowdesign.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/layout/teachers_list.xml" value="0.19610507246376813" />
         <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/layout/verification_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/menu/activity_main_drawer.xml" value="0.2171875" />
+        <entry key="..\:/Users/Veekalp/AndroidStudioProjects/FeedbackSystem/app/src/main/res/menu/menu.xml" value="0.2171875" />
       </map>
     </option>
   </component>
